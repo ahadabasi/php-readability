@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Automatic article extraction from HTML",
 	"keywords": ["article extraction","content extraction","extraction","article","content","html"],
-	"homepage": "dssminer.com/",
+	"homepage": "https://dssminer.com",
 	"license": "Apache-2.0",
 	"authors": [
 		{

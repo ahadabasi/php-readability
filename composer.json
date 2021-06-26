@@ -6,12 +6,12 @@
 	"homepage": "dssminer.com/",
 	"license": "Apache-2.0",
 	"authors": [
-	{
+		{
 		"name": "Ahad abasi",
 		"email": "ahadabasirad@gmail.com",
 		"homepage": "https://patiko.ir",
 		"role": "Developer (ported original JS code to PHP)"
-	},
+		}
 	],
 	"require": {
 		"php": ">=5.2"

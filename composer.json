@@ -1,22 +1,17 @@
 {
-	"name": "fivefilters/php-readability",
+	"name": "ahadabasi/php-readability",
 	"type": "library",
 	"description": "Automatic article extraction from HTML",
 	"keywords": ["article extraction","content extraction","extraction","article","content","html"],
-	"homepage": "http://code.fivefilters.org/php-readability/",
+	"homepage": "dssminer.com/",
 	"license": "Apache-2.0",
 	"authors": [
 	{
-		"name": "Keyvan Minoukadeh",
-		"email": "keyvan@keyvan.net",
-		"homepage": "http://keyvan.net",
+		"name": "Ahad abasi",
+		"email": "ahadabasirad@gmail.com",
+		"homepage": "https://patiko.ir",
 		"role": "Developer (ported original JS code to PHP)"
 	},
-	{
-		"name": "Arc90",
-		"homepage": "http://arc90.com",
-		"role": "Developer (original JS version)"
-	}
 	],
 	"require": {
 		"php": ">=5.2"
